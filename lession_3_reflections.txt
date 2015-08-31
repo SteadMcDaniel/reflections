@@ -6,3 +6,4 @@ Describe the differences between forks, clones, and branches. When would you use
 
 Test git on windows/work computer.
 
+Test credential caching.
